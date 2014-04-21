@@ -1,0 +1,11 @@
+{
+	"FilePartSize": 10485760,
+	"RetransmissionNumber": 5,
+	"UploadGoroutineNumber": 10,
+	"UploadFilesSize": 5242880,
+	"LoadGoroutineNumber": 10,
+	"LoadFilesSize": 5242880,
+	"EncryptToken":true,
+	"KeyId":"XHXt6eD6DTjHdoLK",
+	"KeySecret":"mYSzLXagkew7DNlONDCCyLuVhMABUy"
+}

@@ -1,0 +1,20 @@
+[
+	{
+		"Servicer": "aliyun",
+		"RemoteDir": "azz",
+		"LocalDir": "G:\\gotest",
+		"IsLoad": false,
+		"IsUpload": true,
+		"IsDelete": true,
+		"LoadUpdateTime": 10
+	},
+	{
+		"Servicer": "",
+		"RemoteDir": "nimei",
+		"LocalDir": "G:\\gotest2",
+		"IsLoad": true,
+		"IsUpload": true,
+		"IsDelete": true,
+		"LoadUpdateTime": 100
+	}
+]
